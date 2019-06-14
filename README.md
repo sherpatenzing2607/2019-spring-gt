@@ -4,10 +4,8 @@ This repository contains the implementation of Brute Force Algorithm, which trie
 
 ## Compile and Run Instruction
 
-1. Download or Clone the Repository.
-2. The Folder "C++ Scripts" contains one source code file "ChineseSalesmanproblem.cpp".
-3. Compile the .ccp file (using g++) to obtain an execultable.
-4. Finally, execute the file obtained from step 3.
+1. Run the makefile.
+2. Execute the execuatble file obtained from Step 1.
 
 
 ## Project Description
